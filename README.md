@@ -50,3 +50,6 @@ This repository is primarily for educational purposes and personal learning as I
 
 
 
+# c-course-practice-code
+c-project during my 1st year
+ b447e627899b740525359e62af2e08d483c8dbc9
